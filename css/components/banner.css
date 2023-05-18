@@ -1,0 +1,23 @@
+
+.banner {
+  background-image: url("../../images/background.png") ;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1,p,a {
+color: white;
+margin-left: 16px;
+}
+
+.banner a {
+  background-color: rgb(42, 181, 42);
+  border: 1px black;
+  border-radius: 20px;
+  padding: 10px;
+
+}
+ .banner a:hover {
+  color:rgba(145, 233, 145, 0.818)
+ }
